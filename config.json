@@ -1,0 +1,6 @@
+{
+    "token": "token",
+    "prefix": "prefix",
+    "ownerid": "user_id",
+    "mongodbstring": "connectionstring"
+}
